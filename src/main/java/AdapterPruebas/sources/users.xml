@@ -1,10 +1,25 @@
+<!--<users>-->
+<!--    <user>-->
+<!--        <name>Juan</name>-->
+<!--        <age>30</age>-->
+<!--    </user>-->
+<!--    <user>-->
+<!--        <name>Maria</name>-->
+<!--        <age>25</age>-->
+<!--    </user>-->
+<!--</users>-->
+
 <users>
     <user>
-        <name>Juan</name>
+        <name>Ronald</name>
+        <age>20</age>
+    </user>
+    <user>
+        <name>Eduardo</name>
         <age>30</age>
     </user>
     <user>
-        <name>Maria</name>
-        <age>25</age>
+        <name>Paola</name>
+        <age>15</age>
     </user>
 </users>
