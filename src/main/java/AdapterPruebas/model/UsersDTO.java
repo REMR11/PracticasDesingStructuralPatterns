@@ -14,7 +14,7 @@ import java.util.List;
 //    }
 //}
 
-public record Users(
+public record UsersDTO(
    @JacksonXmlElementWrapper(useWrapping = false)
-   List<User> user
+   List<UserDTO> user
 ) {}

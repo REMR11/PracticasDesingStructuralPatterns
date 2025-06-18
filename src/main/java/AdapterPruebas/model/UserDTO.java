@@ -19,7 +19,7 @@ import lombok.NoArgsConstructor;
 //
 //}
 
-public record User(
+public record UserDTO (
    @JacksonXmlProperty(localName = "name") String name,
    @JacksonXmlProperty(localName = "age") int age
 ) {}
